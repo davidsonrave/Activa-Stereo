@@ -72,4 +72,3 @@ spec="~1.2.0" />
 <allow-intent href="itms-apps:*" />
 </platform>
 </widget>
-
